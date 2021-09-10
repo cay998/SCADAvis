@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="328.00554"
-     inkscape:cy="783.72601"
+     inkscape:zoom="0.7"
+     inkscape:cx="5.9423728"
+     inkscape:cy="647.26969"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4707"
      showgrid="false"
      inkscape:snap-page="false"
      inkscape:window-width="1920"
@@ -58,7 +58,8 @@
        transform="matrix(0.72746808,0,0,0.57279623,-0.93036528,20.948805)" />
     <g
        id="g4678"
-       style="fill:#40f2f9;fill-opacity:1">
+       style="fill:#40f2f9;fill-opacity:1"
+       transform="matrix(2.702339,0,0,2.702339,-86.855725,-155.45514)">
       <g
          id="g4703"
          transform="translate(-9.2604167,-5.6696429)">
@@ -92,7 +93,8 @@
       </g>
     </g>
     <g
-       id="g4707">
+       id="g4707"
+       transform="matrix(2.702339,0,0,2.702339,-86.855725,-155.45514)">
       <rect
          y="96.002037"
          x="79.783432"
@@ -101,25 +103,26 @@
          id="rect4634"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.13746236" />
       <rect
-         y="108.47526"
+         y="96.002037"
          x="79.783432"
-         height="35.834995"
+         height="48.308216"
          width="4.3202462"
          id="rect4638"
-         style="opacity:1;fill:#40f2f9;fill-opacity:1;stroke-width:0.13946769"
+         style="opacity:1;fill:#40f2f9;fill-opacity:1;stroke-width:0.16193116"
          inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:80,&quot;min&quot;:0,&quot;tag&quot;:&quot;TAG_BAR_TEMP&quot;}" />
       <flowRoot
          xml:space="preserve"
          id="flowRoot4709"
-         style="fill:#5dabae;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5dabae;fill-opacity:1;stroke:none"
+         transform="scale(0.26458333)"><flowRegion
            id="flowRegion4711"
-           style="fill:#5dabae;fill-opacity:1;"><rect
+           style="fill:#5dabae;fill-opacity:1"><rect
              id="rect4713"
              width="100.72932"
              height="41.036957"
              x="217.14285"
              y="321.80539"
-             style="fill:#5dabae;fill-opacity:1;" /></flowRegion><flowPara
+             style="fill:#5dabae;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara4715"></flowPara></flowRoot>      <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -144,7 +147,7 @@
          x="55.295429"
          y="95.834862"
          id="text4725"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TXT_TEMP&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
            sodipodi:role="line"
            id="tspan4723"
            x="55.295429"
